@@ -5,7 +5,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-[Issue](https://github.com/Dovion/JavaQ2/issues/1)
+[Неверный результат при расчёте коэффициентов бонуса #1
+](https://github.com/Dovion/JavaQ2/issues/1)
 
 Описание процесса тестирования
 -------------------------
@@ -14,7 +15,7 @@
 [Test case for Precision](https://docs.google.com/spreadsheets/d/1092amcklnUKE_B9j1bj_DIjNvznfn7t3PM6z-Ll6f08/edit?usp=sharing)
 
 
-**В качестве тестовых данных использовались данные** [Source](https://github.com/netology-code/javaqa-homeworks/tree/master/programming) :
+**В качестве тестовых данных использовались данные** [Домашнее задание к занятию «1.2. Программирование на Java: переменные, операторы, работа с отладчиком»](https://github.com/netology-code/javaqa-homeworks/tree/master/programming) :
 
 **Базовый бонус:** 0.3; **Дополнительный бонус:** 0.6; **Ожидаемый результат:** 0.9.
 
